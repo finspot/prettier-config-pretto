@@ -1,0 +1,21 @@
+{
+  "name": "@pretto/prettier-config-pretto",
+  "version": "1.0.0",
+  "repository": "git@github.com:finspot/prettier-config-pretto.git",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "pretto",
+    "prettier"
+  ],
+  "dependencies": {
+    "@prettier/plugin-php": "^0.18.7",
+    "@trivago/prettier-plugin-sort-imports": "^3.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "prettier": "./"
+}
