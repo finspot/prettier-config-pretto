@@ -7,8 +7,6 @@ module.exports = {
   tabWidth: 2,
   trailingComma: 'es5',
   useTabs: false,
-  // @prettier/plugin-php
-  phpVersion: '7.4',
   // @trivago/prettier-plugin-sort-imports
   importOrder: [
     '^@pretto/bricks/(.*)$',
