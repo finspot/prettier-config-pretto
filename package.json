@@ -1,7 +1,7 @@
 {
   "name": "@pretto/prettier-config-pretto",
   "version": "2.2.0",
-  "repository": "git@github.com:finspot/prettier-config-pretto.git",
+  "repository": "git+https://github.com/finspot/prettier-config-pretto.git",
   "files": [
     "index.js"
   ],
